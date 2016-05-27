@@ -18,7 +18,13 @@ React  Flask Demo
 ## Run
 Run in the root of your directory: `npm run watch`
 This will watch the src directories and build on changes and placed the built css and js files in the static directory. It'll serve everything in the /static directory at localhost:5000
-You can see the  example here 'http://localhost:5000/'
+You can see the  example here. 
+
+'http://localhost:5000/'
+
+reference  
+"https://github.com/KyleAMathews/coffee-react-quickstart"
+
 
 
 
