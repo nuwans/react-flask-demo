@@ -8,7 +8,7 @@ React  Flask Demo
 3. Then run  'pip install virtualenv' command (if it is not working run 'easy_install virtualenv' command  reference
     'http://flask.pocoo.org/docs/0.10/installation/' 
 4. Then run 'virtualenv venv' command  *venv = folder  name  (You  can  have any  name)
-5. Then run 'cd env/scripts'  and  type 'activate' command  and  hit  enter.  you  will see (venv) is activated  now
+5. Then run 'cd venv/scripts'  and  type 'activate' command  and  hit  enter.  you  will see (venv) is activated  now
 6. Then go to  root directry (run 'cd ../../' command)
 7. Install  Flask  using 'pip install -r requirements.txt' command
 8. Run `npm install` and `bundle install`. This will install the respective NPM and Ruby Gem dependencies.
