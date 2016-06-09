@@ -12,7 +12,11 @@ React  Flask Demo
 6. Then go to  root directry (run 'cd ../../' command)
 7. Install  Flask  using 'pip install -r requirements.txt' command
 8. Run `npm install` and `bundle install`. This will install the respective NPM and Ruby Gem dependencies.
+    *If there any error with bundle install ruby (im using Ruby 2.2.4(X64) 'http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.3.0-x64.exe')
+    *run  'gem install bundle' command
     *If there are  some errors run 'bundle update' command  
+        
+
 9. Then You'll also need to have gulp installed globally to run the coffeescript gulpfile: `npm install -g gulp`
 
 ## Run
